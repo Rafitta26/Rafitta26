@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<!--
-**Rafitta26/Rafitta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy un apasionado de la tecnología enfocado en [Tu área: Desarrollo Web / Datos / Ciberseguridad]. Me encanta resolver problemas y aprender nuevas herramientas constantemente.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en: **[Proyecto actual]**
+- 🌱 Estoy aprendiendo: **[Tecnología nueva]**
+- 💬 Pregúntame sobre: **[Tus fuertes]**
+- 📫 Cómo contactarme: **[Tu LinkedIn o Email]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,python)
+
+### 📊 Mis Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
